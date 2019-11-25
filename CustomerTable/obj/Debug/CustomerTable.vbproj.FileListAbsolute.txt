@@ -1,0 +1,16 @@
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\bin\Debug\CustomerTable.exe.config
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\bin\Debug\CustomerTable.exe
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\bin\Debug\CustomerTable.pdb
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\bin\Debug\CustomerTable.xml
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\bin\Debug\EntityFramework.dll
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\bin\Debug\EntityFramework.xml
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\obj\Debug\CustomerTable.vbprojAssemblyReference.cache
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\obj\Debug\CustomerTable.Form1.resources
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\obj\Debug\CustomerTable.Resources.resources
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\obj\Debug\CustomerTable.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\obj\Debug\CustomerTable.vbproj.CopyComplete
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\obj\Debug\CustomerTable.exe
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\obj\Debug\CustomerTable.xml
+C:\Users\acer\source\repos\SimpleCRUD\CustomerTable\obj\Debug\CustomerTable.pdb

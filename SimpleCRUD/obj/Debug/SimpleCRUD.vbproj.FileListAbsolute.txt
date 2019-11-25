@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\bin\Debug\SimpleCRUD.exe.config
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\bin\Debug\SimpleCRUD.exe
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\bin\Debug\SimpleCRUD.pdb
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\bin\Debug\SimpleCRUD.xml
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\bin\Debug\EntityFramework.dll
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\bin\Debug\EntityFramework.xml
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.Form1.resources
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.Resources.resources
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.vbproj.CopyComplete
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.exe
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.xml
+C:\Users\acer\source\repos\SimpleCRUD\SimpleCRUD\obj\Debug\SimpleCRUD.pdb
